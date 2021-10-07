@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning express.js, MongoDB
 - 👯 I’m looking to collaborate on any awesome projects
 - 👨‍💻 All of my projects are available at [My Portfolio](https://mayurkamthe.vercel.app/)
-- 📫 How to reach me: [Gmail](mayur.kamthe62987@gmail.com)
+- 📫 How to reach me: mayur.kamthe62987@gmail.com
 
 <hr/>
 
