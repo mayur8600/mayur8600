@@ -30,5 +30,5 @@
 <hr/>
 
 ### Connect With Me
-[LinkedIn](https://www.linkedin.com/in/mayur-kamthe-0b2012157/) <br/>
-[Twitter](https://twitter.com/Mayur629874)
+[![button](https://raw.githubusercontent.com/mayur8600/mayur8600/main/linkedin%20(1).png)](https://www.linkedin.com/in/mayur-kamthe-0b2012157/)
+[![button](https://raw.githubusercontent.com/mayur8600/mayur8600/main/twitter.png)](https://twitter.com/Mayur629874)
